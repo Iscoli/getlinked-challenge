@@ -36,8 +36,7 @@ function NavBar() {
         </div>
         <div
           className={styles.navLinks}
-          style=
-          {{ display: isLargeScreen ? "flex" : "none" }}
+          style={{ display: isLargeScreen ? "flex" : "none" }}
         >
           <p>TimeLine</p>
           <p>Overveiw</p>
